@@ -1,5 +1,10 @@
 
 body {
-	background-image: url("appp.jpg");
+	background-image: url("appp.png");
+	background-size: 125%;
 	
+}
+p#score {
+
+	color: white;
 }
